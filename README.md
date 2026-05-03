@@ -509,5 +509,13 @@ The activity should be treated as malicious and suitable for takedown / abuse re
 The analysis in this report is derived from the supplied investigation write-ups:
 
 - Part 1: Static Analysis
+  `https://github.com/Rayza-Slyce/Linkedin_Recruitment_Lure_Investigation_Pt1_Static_Analysis`
+  
 - Part 2: Dynamic Analysis & Payload Behaviour
+  `https://github.com/Rayza-Slyce/Linkedin_Recruitment_Lure_Investigation_Pt2_Dynamic_Analysis`
 
+## Note on Threat Report Preparation
+
+This professional-style report was created as an AI-assisted summary to support responsible abuse reporting and VirusTotal/community sharing.
+
+The underlying investigation, evidence collection, screenshots, dynamic testing, network observations, and analysis were carried out by me. AI assistance was used to help structure, format, and present the findings in a clearer professional report format.
